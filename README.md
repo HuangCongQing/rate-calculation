@@ -22,7 +22,7 @@
 3、个税起征点调整到 5000 元后个税差额
 从上述计算中可以看出，适用新的基本减除费用标准和税率表后，李先生减税 1870－790=1080（元）。
 
-答案来自@[经济参考报](https://boke112.com/goto/aHR0cDovL2J1c2luZXNzLnNvaHUuY29tL2EvMjU3MDU3MzY2XzQ3NTkyOA==)
+答案来自@[经济参考报](http://business.sohu.com/a/257057366_475928)
 
 ### License
 Copyright (c) [ChungKing](https://github.com/HuangCongQing). All rights reserved.
