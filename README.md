@@ -1,5 +1,6 @@
 # rate-calculation
 个税起征点提至5000元，进行税率计算
+新的税率表扩大了3%、10%、20%三档低税率级距
 
 @ [ChungKing](https://github.com/HuangCongQing)，若fork或star请注明来源
 
